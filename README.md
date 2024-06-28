@@ -9,7 +9,7 @@
 - PHP
 - Nodejs
 
-##🎇 Frameworks and libraries
+## 🎇 Frameworks and libraries
 - Reactjs
 - Expressjs
 - Formik
