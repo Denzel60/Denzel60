@@ -8,6 +8,13 @@
 - CSS
 - PHP
 - Nodejs
+
+##🎇 Frameworks and libraries
+- Reactjs
+- Expressjs
+- Formik
+- Yup
+- Zustand
   
 ## 👯 I’m looking to collaborate on 
 - `Fullstack Devlopment Projects`
