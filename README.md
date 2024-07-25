@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denzel60" alt="denzel60" /></a> </p>
 
-- 🔭 I’m currently working on [Art-Gallery](https://github.com/Denzel60/Art-Gallery-)
+- 🔭 I’m currently working on [E commerce website](https://github.com/Denzel60/E-commerce-Grand-Project)
 
 - 🌱 I’m currently learning **ReactJs and Express Js**
 
-- 👯 I’m looking to collaborate on [Art-Gallery](https://github.com/Denzel60/Art-Gallery-)
+- 👯 I’m looking to collaborate on [E commerce website](https://github.com/Denzel60/E-commerce-Grand-Project)
 
-- 🤝 I’m looking for help with [Art-Gallery](https://github.com/Denzel60/Art-Gallery-)
+- 🤝 I’m looking for help with [E commerce website](https://github.com/Denzel60/E-commerce-Grand-Project)
 
 - 💬 Ask me about **React Js**
 
