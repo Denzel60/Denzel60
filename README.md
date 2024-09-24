@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **ReactJs and Express Js**
 
-- 👯 I’m looking to collaborate on [E commerce website](https://github.com/Denzel60/E-commerce-Grand-Project)
+- 👯 I’m looking to collaborate on [Slack-clone](https://github.com/Denzel60/Slack-clone)
 
-- 🤝 I’m looking for help with [E commerce website](https://github.com/Denzel60/E-commerce-Grand-Project)
+- 🤝 I’m looking for help with [Slack-clone](https://github.com/Denzel60/Slack-clone)
 
 - 💬 Ask me about **React Js**
 
