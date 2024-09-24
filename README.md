@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denzel60" alt="denzel60" /></a> </p>
 
-- 🔭 I’m currently working on [E commerce website](https://github.com/Denzel60/E-commerce-Grand-Project)
+- 🔭 I’m currently working on [Slack-clone](https://github.com/Denzel60/Slack-clone)
 
 - 🌱 I’m currently learning **ReactJs and Express Js**
 
